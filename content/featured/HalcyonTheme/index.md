@@ -1,12 +1,12 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'React Admin Dashboard'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
+github: 'https://github.com/sagarmittal1/ReactDashX'
 external: 'https://halcyon-theme.netlify.com/'
 tech:
-  - VS Code
-  - Sublime Text
+  - ReactJS
+  - 
   - Atom
   - iTerm2
   - Hyper
