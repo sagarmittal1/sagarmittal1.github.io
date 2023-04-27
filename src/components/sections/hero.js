@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Frontend Developer mainly focussed on ReactJS. I build elegant & functional web apps.
+        I’m a frontend developer mainly focussed on ReactJS. I build elegant & functional web apps.
         I sometimes also design UI/UX. Seeking opportunities to innovate and grow. You can find all
         my work at my{' '}
         <a href="https://github.com/sagarmittal1" target="_blank" rel="noreferrer">
