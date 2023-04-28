@@ -5,7 +5,7 @@ module.exports = {
     title: 'Sagar Mittal',
     description:
       'Sagar Mittal is a frontend developer who mainly work on ReactJS. He designs elegant & functional web apps. Sometimes he also do designing',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://sagarmittal.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@sagar_mittal5',
   },
@@ -152,7 +152,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-45666519-2',
+        trackingId: 'G-SWV6E2228P',
       },
     },
   ],
