@@ -61,8 +61,7 @@ const Contact = () => {
 
       <p>
         I am actively looking for internships, full-time opportunities & remote work. Whether you
-        have a question, feedback, or just want to chat, feel free to reach out to me anytime. My
-        inbox is always open. Don't hesitate to reach out and say hello!
+        have a question, feedback, or just want to chat, feel free to reach out to me anytime.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

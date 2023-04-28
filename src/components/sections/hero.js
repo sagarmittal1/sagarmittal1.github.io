@@ -66,13 +66,17 @@ const Hero = () => {
     <>
       <p>
         I’m a frontend developer mainly focussed on ReactJS. I build elegant & functional web apps.
-        I sometimes also design UI/UX. Seeking opportunities to innovate and grow. You can find all
-        my work at my{' '}
+        <br />
+        You can find all my work at my{' '}
         <a href="https://github.com/sagarmittal1" target="_blank" rel="noreferrer">
           GitHub
         </a>
         .
       </p>
+      <b style={{ background: '#233554' }}>
+        Note: looking for frontend developer internships, <a href="mailto:mittalsagar006@gmail.com">email</a>{' '}
+        me if you are hiring :)
+      </b>
     </>
   );
   const five = (
